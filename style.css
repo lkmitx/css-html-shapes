@@ -1,0 +1,87 @@
+.deepred1 {
+  z-index: 0;
+  position: absolute;
+  left: 150px;
+  top: 100px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #b00439;
+}
+
+.lightorange1 {
+  z-index: 3;
+  position: absolute;
+  left: 200px;
+  top: 150px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #fbb728;
+}
+
+.lightblue1 {
+  z-index: 0;
+  position: absolute;
+  left: 250px;
+  top: 200px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #cdecf1;
+}
+
+.lightgray1 {
+  z-index: 1;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #8a8b8f;
+}
+
+.deepred2 {
+  z-index: 2;
+  position: absolute;
+  left: 150px;
+  top: 300px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #b00439;
+}
+ 
+.lightblue2 {
+  z-index: 3;
+  position: absolute;
+  left: 100px;
+  top: 250px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #cdecf1;
+}
+
+.lightorange2 {
+  z-index: 0;
+  position: absolute;
+  left: 50px;
+  top: 200px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #fbb728;
+}
+
+.lightgreen1 {
+  z-index: 3;
+  position: absolute;
+  left: 100px;
+  top: 150px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: #dae448;
+}
